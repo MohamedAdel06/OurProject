@@ -1,2 +1,3 @@
-Create js file
-console.log("Now")
+// Create js file
+console.log("Now");
+console.log("Yes");
